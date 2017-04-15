@@ -1,5 +1,5 @@
 # Extended Kalman Filter in C++
-(Udacity self driving car nanodegree term #2 - project #1)
+(Udacity's self driving car nanodegree term #2 - project #1)
 
 With simulated lidar and radar measurements detecting a bicycle that travels around your vehicle we will use a Kalman filter, lidar measurements and radar measurements to track the bicycle's position and velocity.
 
