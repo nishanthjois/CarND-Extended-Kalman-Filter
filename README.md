@@ -1,4 +1,4 @@
-# CarND-Extended-Kalman-Filter in C++
+# Extended Kalman Filter in C++
 (Udacity self driving car nanodegree term #2 - project #1)
 
 With simulated lidar and radar measurements detecting a bicycle that travels around your vehicle we will use a Kalman filter, lidar measurements and radar measurements to track the bicycle's position and velocity.
@@ -20,7 +20,7 @@ px, py, vx, and vy RMSE RMSE values for input aser-radar-measurement-data #2:
 
 ![Alt text](/Sample-files/EKF_plot.png?)
 
-## Details:
+### Details:
 
 #### To compile:
 From the root of the repo:
