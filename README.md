@@ -5,10 +5,11 @@ With simulated lidar and radar measurements detecting a bicycle that travels aro
 
 #### Result:
 px, py, vx, and vy RMSE RMSE values for input laser-radar-measurement-data #1:
-0.0651649
-0.0605378
-0.54319
-0.544191
+
+- 0.0651649
+- 0.0605378
+- 0.54319
+- 0.544191
 
 px, py, vx, and vy RMSE RMSE values for input aser-radar-measurement-data #2:
 0.185465
@@ -16,7 +17,7 @@ px, py, vx, and vy RMSE RMSE values for input aser-radar-measurement-data #2:
 0.476509
 0.810787
 
-### Visualization:
+#### Visualization:
 
 ![Alt text](/Sample-files/EKF_plot.png?)
 
