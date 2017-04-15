@@ -11,7 +11,7 @@ px, py, vx, and vy RMSE RMSE values for input laser-radar-measurement-data #1:
 - 0.54319
 - 0.544191
 
-px, py, vx, and vy RMSE RMSE values for input aser-radar-measurement-data #2:
+px, py, vx, and vy RMSE RMSE values for input laser-radar-measurement-data #2:
 
 - 0.185465
 - 0.190254
