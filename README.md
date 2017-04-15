@@ -20,7 +20,7 @@ px, py, vx, and vy RMSE RMSE values for input laser-radar-measurement-data #2:
 
 #### Visualization:
 
-![Alt text](/Sample-files/EKF_plot.png?)
+![Alt text](/EKF_plot.png?)
 
 ### Details:
 
