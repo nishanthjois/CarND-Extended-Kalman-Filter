@@ -19,7 +19,6 @@ px, py, vx, and vy RMSE RMSE values for input laser-radar-measurement-data #2:
 - 0.810787
 
 #### Visualization:
-
 ![Alt text](/EKF_plot.png?)
 
 ### Details:
